@@ -1,0 +1,163 @@
+.main-h-screen {
+  min-height: 100vh;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.text-center{
+  text-align: center;
+}
+.items-centre {
+  align-items: center;
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-centre {
+  justify-content: center;
+}
+
+.navbar {
+  display: flex;
+  height: 55px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.navbar li {
+  list-style: none;
+  margin: 0px 12px;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.top-left {
+  width: 50%;
+  padding: 1px 0;
+}
+
+.top-right {
+  width: 50%;
+  padding: 12px 185px;
+}
+
+.section1 {
+  height: 100%;
+  width: 50vh;
+}
+
+.section1 h1{
+  font-size: 2rem;
+}
+
+.my-1 {
+  margin-top: 23px;
+  width: max-content;
+  margin-bottom: 23px;
+}
+
+.my-2 {
+  margin-top: 26px;
+  /* width: max-content; */
+  margin-bottom: 26px;
+}
+
+.px-2 {
+  padding-right: 360px;
+  padding-left: 24px;
+}
+
+.text-blue {
+  color: rgb(3 114 154);
+}
+
+.btn {
+  padding: 8px 12px;
+  border: 2px solid rgb(153, 0, 255);
+  color: white;
+  cursor: pointer;
+  border-radius: 12px 2px;
+  background-color: rgb(9 126 158);
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
+.dombell {
+  width: 300px;
+}
+
+.gym {
+  height: 100%;
+  width: 100%;
+}
+
+.top-right .gym{
+  width: 486px;
+}
+
+.section2{
+padding-left: 42px;
+padding-right: 42px;
+}
+
+.section2 p{
+padding: 0 9vw;
+text-align: center;
+
+}
+.section2 h1{
+  font-size: 3.5rem;
+}
+
+.box{
+  padding: 8px 0px;
+  margin:  12px 22px;
+  min-width: 18vw;
+  border: 2px solid rgb(21, 113, 219);
+  border-radius: 6px;
+  text-align: center;
+}
+
+.box ul{
+  list-style-type: none;
+}
+
+.box ul li{
+margin: 10px 2px;
+}
+
+.box h2{
+  font-size: 2rem;
+  padding: 15px 0px;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.highlighted{
+  font-size: 1.2rem;
+  font-weight: bolder
+  ;
+}
